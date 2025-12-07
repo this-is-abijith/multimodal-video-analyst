@@ -1,0 +1,20 @@
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore downloads and data (CRITICAL for your project)
+app_downloads/
+project_data/
+*.mp3
+*.mp4
+*.txt
+*.jpg
+*.png
+
+# Ignore Mac system files
+.DS_Store
