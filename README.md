@@ -22,6 +22,12 @@ An advanced AI application that "watches" YouTube videos to generate comprehensi
 4.  **Fusion Layer:** **LangChain** combines the Transcript and Visual Description into a structured prompt.
 5.  **Reasoning:** **Llama 3.2** generates the final summary, cross-referencing both data sources.
 
+## 📸 Live Demo
+
+<div align="center">
+  <img src="assets/demo.gif" alt="App Demo" width="700" />
+</div>
+
 ## 🛠️ Prerequisites
 
 Before running the app, ensure you have the following installed on your system:
