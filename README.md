@@ -38,7 +38,7 @@ Before running the app, ensure you have the following installed on your system:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/multimodal-video-analyst.git](https://github.com/YOUR_USERNAME/multimodal-video-analyst.git)
+    git clone https://github.com/this-is-abijith/multimodal-video-analyst.git
     cd multimodal-video-analyst
     ```
 
